@@ -1,0 +1,4 @@
+#/bin/sh
+ln -s ~/.myConfig/.zshrc ~/.zshrc
+ln -s ~/.myConfig/.vimrc ~/.vimrc
+ln -s ~/.myConfig/.vim ~/.vim
